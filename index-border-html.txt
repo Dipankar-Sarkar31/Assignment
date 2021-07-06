@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="receipe-container">
+        <div class="receipe-content">
+            <h2>My Recipies</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi tempora illo nisi explicabo architecto quo placeat cupiditate dolor quis voluptates.</p>
+        </div>
+        <div class="box-container">
+            <div class="box1">
+                <img src="images/box-1.jpg" alt="">
+                <h2>Recipie Title</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, necessitatibus?</p>
+            </div>
+            <div class="box1">
+                <img src="images/box-2.jpg" alt="">
+                <h2>Recipie Title</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, necessitatibus?</p>
+            </div>
+            <div class="box1">
+                <img src="images/box-3.png" alt="">
+                <h2>Recipie Title</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, necessitatibus?</p>
+            </div>
+            
+        </div>
+    </div>
+</body>
+</html>

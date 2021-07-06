@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.receipe-container{
+    margin: 20px;
+}
+
+.receipe-content{
+    margin-bottom: 150px;
+}
+
+.box-container{
+    display: flex;
+}
+
+.box1{
+    width: 30%;
+    margin-right: 45px;
+
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px  rgb(189, 179, 179) ;
+}
+
+.box1 img{
+    width: 100%;
+}
